@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fire
+  - paper
+  - energyimg
+  - Enemy
+  - EnemyHand
+  - 00_Key
+  - class00Door
+  - colorRed
+  - colorBlue
+  - colorYellow
+  - book
+  - level01_room
+  - Cabinet
+  - MazeTrap
+  - HallDoor
+  - Kay_01
+  - cup
+  - 00_End
+  - LastDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Target
+  - Obstuction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
