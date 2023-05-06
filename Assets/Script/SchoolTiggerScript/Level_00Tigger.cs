@@ -28,6 +28,8 @@ public class Level_00Tigger : MonoBehaviour
         if (Player.The_00_Key==true&&classKeyED==false)
         {
             Debug.Log("123");
+            Debug.Log("456");
+            Debug.Log("789");
             TheFtext.SetActive(true);
             if ((Input.GetKeyDown(KeyCode.F)))
             {
